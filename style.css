@@ -4,7 +4,11 @@
   border-weight: heavy;
 }
 
-.question-two {}
+.question-two {
+  border-color: blue;
+  border-style: solid;
+  border-weight: 1 px;
+}
 
 .question-three {}
 
