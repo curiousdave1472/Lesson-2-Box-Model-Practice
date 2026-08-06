@@ -20,18 +20,20 @@
 
 .question-four {
   border-color: blue;
-  border-style: solid;
+  border-style: dotted;
   border-weight: 1px;
 }
 
 .question-five {
-  border-weight: 10px;
+  border-weight: 20px;
   border-style: double;
   border-color: black;
+  margin: 0px 20px 0px 10px;
 }
 
 .question-six {
   border-style: double;
   border-color: green;
-  border-weight: 10px;
+  border-weight: 20px;
+  border-style: solid;
 }
