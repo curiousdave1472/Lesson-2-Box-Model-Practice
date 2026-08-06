@@ -31,5 +31,7 @@
 }
 
 .question-six {
-  
+  border-style: double;
+  border-color: green;
+  border-weight: 10px;
 }
