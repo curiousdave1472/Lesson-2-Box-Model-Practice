@@ -20,13 +20,12 @@
 
 .question-four {
   border-color: blue;
-  border-stylea: solid;
   border-style: solid;
   border-weight: 1px;
 }
 
 .question-five {
-  border-weight: 5px;
+  border-weight: 10px;
   border-style: double;
   border-color: black;
 }
