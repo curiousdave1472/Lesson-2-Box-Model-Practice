@@ -5,21 +5,33 @@
 }
 
 .question-two {
-  border-color: blue;
+  border-color: green;
   border-style: solid;
   border-weight: 1px;
 }
 
 .question-three {
-  border-color: green;
+  border-color: blue;
   border-style: solid;
   borer-radius: 20px;
   border-weight: 1px;
   margin: 0px 20px 0px 20px;
 }
 
-.question-four {}
+.question-four {
+  border-color: blue;
+  border-stylea: solid;
+  border-style: solid;
+  border-weight: 1px;
+}
 
-.question-five {}
+.question-five {
+  border-style: solid;
+  border-weight: 5px;
+  border-style: double;
+  border-color: black;
+}
 
-.question-six {}
+.question-six {
+  
+}
