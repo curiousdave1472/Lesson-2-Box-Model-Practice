@@ -1,4 +1,8 @@
-.question-one {}
+.question-one {
+  border-color: red;
+  border-style: dotted;
+  border-weight: heavy;
+}
 
 .question-two {}
 
