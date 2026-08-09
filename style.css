@@ -22,18 +22,26 @@
   border-color: blue;
   border-style: dotted;
   border-weight: 1px;
+  padding: 25px;
+  margin: 10%;
+  border: 10px;
 }
 
 .question-five {
-  border-weight: 20px;
+  border-weight: 40px;
   border-style: double;
   border-color: black;
-  margin: 0px 20px 0px 10px;
+  margin: 20%;
+  padding: 20px;
+  border: 10px;
 }
 
 .question-six {
   border-style: double;
   border-color: green;
-  border-weight: 20px;
+  border-weight: 30px;
   border-style: solid;
+  margin: 20%;
+  padding: 20px;
+  border: 20px;
 }
