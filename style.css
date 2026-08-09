@@ -1,33 +1,34 @@
 .question-one {
   border-color: red;
   border-style: solid;
-  border-weight: heavy;
+  border-weight: 5px;
 }
 
 .question-two {
   border-color: green;
   border-style: solid;
-  border-weight: 2px;
+  border-weight: 5px;
 }
 
 .question-three {
   border-color: blue;
   border-style: solid;
   borer-radius: 20px;
-  border-weight: 3px;
+  border-weight: 5px;
   margin: 0px 20px 0px 20px;
 }
 
 .question-four {
   border-color: blue;
-  border-style: dotted;
-  border-weight: 5px;
+  border-style: dashed;
+  border-weight: 10px;
 }
 
 .question-five {
-  border-weight: 40px;
   border-style: double;
   border-color: black;
+  border-style: solid;
+  border-weight: 40px;
   padding: 10px;
   margin: 25px;
 }
@@ -35,8 +36,8 @@
 .question-six {
   border-style: double;
   border-color: green;
-  border-weight: 30px;
   border-style: solid;
+  border-weight: 30px;
   padding: 10px;
   margin: 20px;
 }
